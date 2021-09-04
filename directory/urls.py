@@ -8,4 +8,3 @@ router.register('brands', BrandViewSet)
 urlpatterns = []
 
 urlpatterns += router.urls
-
